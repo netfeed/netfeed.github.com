@@ -1,0 +1,8 @@
+---
+layout: post
+title: Testing
+---
+
+h1. {{ page.title }}
+
+This is a first test, yay
