@@ -1,0 +1,4 @@
+= License
+
+Everything except the content in _posts/ is licensed under the MIT license.
+The content in _posts/ is Copyright Victor Bergöö.
